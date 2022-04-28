@@ -1,0 +1,382 @@
+<manifest alg="2" build="2015.2.0.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="creativeracer.net" resolutions="1x" timestamp="1487867351687">
+  <folder name="css">
+    <file name="site_global.css" crc="4271259710"/>
+    <file name="portfolio.css" crc="4154753488" ref="portfolio"/>
+    <file name="nomq_portfolio.css" crc="4026606797" ref="portfolio"/>
+    <file name="portfolio-details.css" crc="197618570" ref="portfolio-details"/>
+    <file name="nomq_portfolio-details.css" crc="3943819633" ref="portfolio-details"/>
+    <file name="freelancer.css" crc="160723749" ref="freelancer"/>
+    <file name="nomq_freelancer.css" crc="3843143899" ref="freelancer"/>
+    <file name="resume.css" crc="334546067" ref="resume"/>
+    <file name="nomq_resume.css" crc="4255756268" ref="resume"/>
+    <file name="index.css" crc="3916440161" ref="index"/>
+    <file name="nomq_index.css" crc="19533103" ref="index"/>
+  </folder>
+  <folder name="fonts">
+    <file name="et-line.woff" crc="3758689988"/>
+    <file name="et-line.eot" crc="3932358893"/>
+    <file name="et-line.svg" crc="479007951"/>
+    <file name="fontawesome-webfont.woff" crc="462672289"/>
+    <file name="fontawesome-webfont.eot" crc="415170694"/>
+    <file name="fontawesome-webfont.svg" crc="3771442179"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="312386352" ref="resume:freelancer:portfolio:portfolio-details:index"/>
+    <file name="museutils.js" crc="4155826306" ref="resume:freelancer:portfolio:portfolio-details:index"/>
+    <file name="whatinput.js" crc="86476730" ref="resume:freelancer:portfolio:portfolio-details:index"/>
+    <file name="museconfig.js" crc="328327953" ref="resume:freelancer:portfolio:portfolio-details:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4034513494" ref="resume:freelancer:portfolio:portfolio-details:index"/>
+    <file name="jquery.watch.js" crc="117772946" ref="resume:freelancer:portfolio:portfolio-details:index"/>
+    <file name="pie.js" crc="3827607177" ref="resume:freelancer:portfolio:portfolio-details:index"/>
+    <file name="jquery.musemenu.js" crc="3765356681" ref="resume:freelancer:portfolio:portfolio-details"/>
+    <file name="webpro.js" crc="4078243563" ref="resume:freelancer:portfolio:portfolio-details"/>
+    <file name="musewpdisclosure.js" crc="3802586038" ref="resume:freelancer:portfolio:portfolio-details"/>
+    <file name="musewpslideshow.js" crc="4115829919" ref="resume:freelancer:portfolio-details"/>
+    <file name="jquery.museoverlay.js" crc="3936724022" ref="resume:freelancer:portfolio-details"/>
+    <file name="touchswipe.js" crc="157639107" ref="resume:freelancer:portfolio-details"/>
+    <file name="form_check.php" crc="474517188" ref="resume"/>
+    <file name="form_throttle.php" crc="495784356" ref="resume"/>
+    <file name="form_process.php" crc="4149049960" ref="resume"/>
+    <file name="form-u40992.php" crc="244725006" ref="resume"/>
+    <file name="html5shiv.js" crc="4241844378" ref="resume:freelancer:portfolio:portfolio-details:index"/>
+    <file name="jquery.museresponsive.js" crc="439107114" ref="resume:freelancer:portfolio:portfolio-details:index"/>
+    <file name="require.js" crc="228336483" ref="resume:freelancer:portfolio:portfolio-details:index"/>
+    <file name="form-u11221.php" crc="4031437322" ref="freelancer"/>
+  </folder>
+  <folder name="images">
+    <file name="home (5).jpg" crc="4155766232" ref="resume"/>
+    <file name="blank.gif" crc="4208392903" ref="resume:freelancer:portfolio:portfolio-details:index"/>
+    <file name="img (1).png" crc="46406440" ref="resume"/>
+    <file name="1.jpg" crc="4033490356" ref="resume"/>
+    <file name="free-picture-frame-psd-mockup-1000x740.jpg" crc="4130662342" ref="resume:freelancer:portfolio"/>
+    <file name="holiday-greeting-card-mockup-free-psd-1000x731.jpg" crc="441336180" ref="resume:freelancer"/>
+    <file name="standing-brochure-mockup-free-1000x750.jpg" crc="129045611" ref="resume:freelancer:portfolio"/>
+    <file name="icon-plus 2.png" crc="128489355" ref="resume:freelancer:portfolio"/>
+    <file name="chocolate-bar-mockup-1.jpg" crc="343381583" ref="resume:freelancer:portfolio"/>
+    <file name="free-box-mockup-psd-1000x652.jpg" crc="471326949" ref="resume:freelancer:portfolio"/>
+    <file name="free-tin-container-mockup-psd-1000x750.jpg" crc="4097420824" ref="resume:freelancer:portfolio"/>
+    <file name="free-photo-frame-mockup-psd-1000x683.jpg" crc="486060562" ref="resume:freelancer:portfolio"/>
+    <file name="free-minivan-mockup-1000x672.jpg" crc="382121699" ref="resume:freelancer:portfolio"/>
+    <file name="free-mockup-clipboard-office-psd-1000x720.jpg" crc="312329335" ref="resume:freelancer"/>
+    <file name="scenes_0001_ebene-9.jpg" crc="4242371884" ref="resume:freelancer:portfolio"/>
+    <file name="free-floating-macbook-air-mockup-psd-1000x694.jpg" crc="4210870998" ref="resume:freelancer:portfolio"/>
+    <file name="client (1)-ieu35557-fr.png" crc="4071863572" ref="resume:freelancer"/>
+    <file name="client (1).jpg" crc="526135246" ref="resume:freelancer"/>
+    <file name="client (1)2.jpg" crc="4084892000" ref="resume:freelancer"/>
+    <file name="client (2).jpg" crc="4214434722" ref="resume:freelancer"/>
+    <file name="home (1).jpg" crc="3872397748" ref="resume"/>
+    <file name="u41007-17.png" crc="4099124877" ref="resume"/>
+    <file name="u41007-17-r.png" crc="4099124877" ref="resume"/>
+    <file name="u41007-17-m.png" crc="4099124877" ref="resume"/>
+    <file name="u41007-17-fs.png" crc="3859567776" ref="resume"/>
+    <file name="ico-mail.png" crc="3978366694" ref="resume:freelancer"/>
+    <file name="ico-smartphone.png" crc="4033214085" ref="resume:freelancer"/>
+    <file name="ico-location.png" crc="4148584578" ref="resume:freelancer"/>
+    <file name="1-u576-fr.jpg" crc="3852958578" ref="resume"/>
+    <file name="u41007-172.png" crc="4099124877" ref="resume"/>
+    <file name="u41007-17-r2.png" crc="4099124877" ref="resume"/>
+    <file name="u41007-17-m2.png" crc="4099124877" ref="resume"/>
+    <file name="u41007-17-fs2.png" crc="3859567776" ref="resume"/>
+    <file name="1-u576-fr2.jpg" crc="443626209" ref="resume"/>
+    <file name="u41007-173.png" crc="4099124877" ref="resume"/>
+    <file name="u41007-17-r3.png" crc="4099124877" ref="resume"/>
+    <file name="u41007-17-m3.png" crc="4099124877" ref="resume"/>
+    <file name="u41007-17-fs3.png" crc="3859567776" ref="resume"/>
+    <file name="1-u576-fr3.jpg" crc="364301283" ref="resume"/>
+    <file name="u41007-174.png" crc="4099124877" ref="resume"/>
+    <file name="u41007-17-r4.png" crc="4099124877" ref="resume"/>
+    <file name="u41007-17-m4.png" crc="4099124877" ref="resume"/>
+    <file name="u41007-17-fs4.png" crc="3859567776" ref="resume"/>
+    <file name="free-picture-frame-psd-mockup-1000x740-u106323-fr.jpg" crc="48950453" ref="resume:freelancer:portfolio"/>
+    <file name="chocolate-bar-mockup-1-u106312-fr.jpg" crc="144034069" ref="resume:freelancer:portfolio"/>
+    <file name="standing-brochure-mockup-free-1000x750-u106325-fr.jpg" crc="4157410343" ref="resume:freelancer:portfolio"/>
+    <file name="holiday-greeting-card-mockup-free-psd-1000x731-u106324-fr.jpg" crc="238501349" ref="resume:freelancer"/>
+    <file name="free-box-mockup-psd-1000x652-u106328-fr.jpg" crc="3941628527" ref="resume:freelancer:portfolio"/>
+    <file name="free-minivan-mockup-1000x672-u106314-fr.jpg" crc="476203527" ref="resume:freelancer:portfolio"/>
+    <file name="free-photo-frame-mockup-psd-1000x683-u106330-fr.jpg" crc="217005754" ref="resume:freelancer:portfolio"/>
+    <file name="free-tin-container-mockup-psd-1000x750-u106327-fr.jpg" crc="4169554316" ref="resume:freelancer:portfolio"/>
+    <file name="free-mockup-clipboard-office-psd-1000x720-u106313-fr.jpg" crc="3990494191" ref="resume:freelancer"/>
+    <file name="free-floating-macbook-air-mockup-psd-1000x694-u106326-fr.jpg" crc="313480772" ref="resume:freelancer:portfolio"/>
+    <file name="scenes_0001_ebene-9-u106333-fr.jpg" crc="494450603" ref="resume:freelancer:portfolio"/>
+    <file name="client (1)-u35557-fr.jpg" crc="4177249876" ref="resume:freelancer"/>
+    <file name="client (1)-u35555-fr.jpg" crc="341809369" ref="resume:freelancer"/>
+    <file name="client (2)-u35556-fr.jpg" crc="4070789081" ref="resume:freelancer"/>
+    <file name="u41007-175.png" crc="4099124877" ref="resume"/>
+    <file name="u41007-17-r5.png" crc="4099124877" ref="resume"/>
+    <file name="u41007-17-m5.png" crc="4099124877" ref="resume"/>
+    <file name="u41007-17-fs5.png" crc="3859567776" ref="resume"/>
+    <file name="free-picture-frame-psd-mockup-1000x740-u106323-fr2.jpg" crc="4224722452" ref="resume:freelancer:portfolio"/>
+    <file name="chocolate-bar-mockup-1-u106312-fr2.jpg" crc="4242986332" ref="resume:freelancer:portfolio"/>
+    <file name="standing-brochure-mockup-free-1000x750-u106325-fr2.jpg" crc="384806179" ref="resume:freelancer:portfolio"/>
+    <file name="holiday-greeting-card-mockup-free-psd-1000x731-u106324-fr2.jpg" crc="98562035" ref="resume:freelancer"/>
+    <file name="free-box-mockup-psd-1000x652-u106328-fr2.jpg" crc="4061373499" ref="resume:freelancer:portfolio"/>
+    <file name="free-minivan-mockup-1000x672-u106314-fr2.jpg" crc="43987120" ref="resume:freelancer:portfolio"/>
+    <file name="free-photo-frame-mockup-psd-1000x683-u106330-fr2.jpg" crc="523815199" ref="resume:freelancer:portfolio"/>
+    <file name="free-tin-container-mockup-psd-1000x750-u106327-fr2.jpg" crc="58255838" ref="resume:freelancer:portfolio"/>
+    <file name="free-mockup-clipboard-office-psd-1000x720-u106313-fr2.jpg" crc="4144890731" ref="resume:freelancer"/>
+    <file name="free-floating-macbook-air-mockup-psd-1000x694-u106326-fr2.jpg" crc="257643518" ref="resume:freelancer:portfolio"/>
+    <file name="scenes_0001_ebene-9-u106333-fr2.jpg" crc="316386638" ref="resume:freelancer:portfolio"/>
+    <file name="client (1)-ieu35557-fr2.png" crc="4220988065" ref="resume:freelancer"/>
+    <file name="client (1)-u35555-fr2.jpg" crc="4114748903" ref="resume:freelancer"/>
+    <file name="client (2)-u35556-fr2.jpg" crc="3934095275" ref="resume:freelancer"/>
+    <file name="u41007-176.png" crc="4099124877" ref="resume"/>
+    <file name="u41007-17-r6.png" crc="4099124877" ref="resume"/>
+    <file name="u41007-17-m6.png" crc="4099124877" ref="resume"/>
+    <file name="u41007-17-fs6.png" crc="3859567776" ref="resume"/>
+    <file name="img (1)-u88535-fr.png" crc="365707113" ref="resume"/>
+    <file name="1-u576-fr4.jpg" crc="360737729" ref="resume"/>
+    <file name="free-picture-frame-psd-mockup-1000x740-u106323-fr3.jpg" crc="89024384" ref="resume:freelancer:portfolio"/>
+    <file name="chocolate-bar-mockup-1-u106312-fr3.jpg" crc="140581298" ref="resume:freelancer:portfolio"/>
+    <file name="standing-brochure-mockup-free-1000x750-u106325-fr3.jpg" crc="4135718074" ref="resume:freelancer:portfolio"/>
+    <file name="holiday-greeting-card-mockup-free-psd-1000x731-u106324-fr3.jpg" crc="76500271" ref="resume:freelancer"/>
+    <file name="free-box-mockup-psd-1000x652-u106328-fr3.jpg" crc="461528627" ref="resume:freelancer:portfolio"/>
+    <file name="free-minivan-mockup-1000x672-u106314-fr3.jpg" crc="3893794792" ref="resume:freelancer:portfolio"/>
+    <file name="free-photo-frame-mockup-psd-1000x683-u106330-fr3.jpg" crc="216806967" ref="resume:freelancer:portfolio"/>
+    <file name="free-tin-container-mockup-psd-1000x750-u106327-fr3.jpg" crc="3794280598" ref="resume:freelancer:portfolio"/>
+    <file name="free-mockup-clipboard-office-psd-1000x720-u106313-fr3.jpg" crc="3902659228" ref="resume:freelancer"/>
+    <file name="free-floating-macbook-air-mockup-psd-1000x694-u106326-fr3.jpg" crc="519590615" ref="resume:freelancer:portfolio"/>
+    <file name="scenes_0001_ebene-9-u106333-fr3.jpg" crc="83402573" ref="resume:freelancer:portfolio"/>
+    <file name="u41007-177.png" crc="4099124877" ref="resume"/>
+    <file name="u41007-17-r7.png" crc="4099124877" ref="resume"/>
+    <file name="u41007-17-m7.png" crc="4099124877" ref="resume"/>
+    <file name="u41007-17-fs7.png" crc="3859567776" ref="resume"/>
+    <file name="img (1)-u88535-fr2.png" crc="4155869478" ref="resume"/>
+    <file name="free-picture-frame-psd-mockup-1000x740-u106323-fr4.jpg" crc="533417653" ref="resume:freelancer:portfolio"/>
+    <file name="chocolate-bar-mockup-1-u106312-fr4.jpg" crc="4048916027" ref="resume:freelancer:portfolio"/>
+    <file name="standing-brochure-mockup-free-1000x750-u106325-fr4.jpg" crc="4025502216" ref="resume:freelancer:portfolio"/>
+    <file name="holiday-greeting-card-mockup-free-psd-1000x731-u106324-fr4.jpg" crc="324299526" ref="resume:freelancer"/>
+    <file name="free-box-mockup-psd-1000x652-u106328-fr4.jpg" crc="132047785" ref="resume:freelancer:portfolio"/>
+    <file name="free-minivan-mockup-1000x672-u106314-fr4.jpg" crc="515360336" ref="resume:freelancer:portfolio"/>
+    <file name="free-photo-frame-mockup-psd-1000x683-u106330-fr4.jpg" crc="4211165734" ref="resume:freelancer:portfolio"/>
+    <file name="free-tin-container-mockup-psd-1000x750-u106327-fr4.jpg" crc="3948042900" ref="resume:freelancer:portfolio"/>
+    <file name="free-mockup-clipboard-office-psd-1000x720-u106313-fr4.jpg" crc="12251111" ref="resume:freelancer"/>
+    <file name="free-floating-macbook-air-mockup-psd-1000x694-u106326-fr4.jpg" crc="411108192" ref="resume:freelancer:portfolio"/>
+    <file name="scenes_0001_ebene-9-u106333-fr4.jpg" crc="4052214290" ref="resume:freelancer:portfolio"/>
+    <file name="u41007-178.png" crc="4099124877" ref="resume"/>
+    <file name="u41007-17-r8.png" crc="4099124877" ref="resume"/>
+    <file name="u41007-17-m8.png" crc="4099124877" ref="resume"/>
+    <file name="u41007-17-fs8.png" crc="3859567776" ref="resume"/>
+    <file name="home (8).jpg" crc="4067512661" ref="freelancer"/>
+    <file name="service (9).jpg" crc="369638082" ref="freelancer"/>
+    <file name="service (3).jpg" crc="163123221" ref="freelancer"/>
+    <file name="home (2).jpg" crc="4067344062" ref="freelancer"/>
+    <file name="envato.png" crc="476086588" ref="freelancer"/>
+    <file name="microsoft 2.png" crc="398907728" ref="freelancer"/>
+    <file name="apple.png" crc="255164220" ref="freelancer"/>
+    <file name="adobe.png" crc="190389994" ref="freelancer"/>
+    <file name="google_2015_logo_detail.jpg" crc="46768254" ref="freelancer"/>
+    <file name="github-logo.png" crc="3859399224" ref="freelancer"/>
+    <file name="behance_logosvg.png" crc="4259395544" ref="freelancer"/>
+    <file name="dribbble-logo-graph-dnld-a5f51e6e8f6c6bd334b1dc962110bdbf8d19c56d81b767e144e7de7b15689618-u9564-fr.png" crc="4034050487" ref="freelancer"/>
+    <file name="dell_logo.png" crc="4032793464" ref="freelancer"/>
+    <file name="black-hp-logo-round.png" crc="133084685" ref="freelancer"/>
+    <file name="nokia.png" crc="4181343208" ref="freelancer"/>
+    <file name="sony_logosvg.png" crc="3779231152" ref="freelancer"/>
+    <file name="bnr (3).jpg" crc="3763990230" ref="freelancer"/>
+    <file name="u11241-17.png" crc="3880357366" ref="freelancer"/>
+    <file name="u11241-17-r.png" crc="3880357366" ref="freelancer"/>
+    <file name="u11241-17-m.png" crc="3880357366" ref="freelancer"/>
+    <file name="u11241-17-fs.png" crc="3859567776" ref="freelancer"/>
+    <file name="envato-u9559-fr.png" crc="430495561" ref="freelancer"/>
+    <file name="microsoft 2-u9560-fr.png" crc="3993335178" ref="freelancer"/>
+    <file name="apple-u9562-fr.png" crc="283709223" ref="freelancer"/>
+    <file name="adobe-u9561-fr.png" crc="45294701" ref="freelancer"/>
+    <file name="google_2015_logo_detail-u9565-fr.jpg" crc="3820388071" ref="freelancer"/>
+    <file name="github-logo-u9567-fr.png" crc="141625233" ref="freelancer"/>
+    <file name="behance_logosvg-u9566-fr.png" crc="286290858" ref="freelancer"/>
+    <file name="dribbble-logo-graph-dnld-a5f51e6e8f6c6bd334b1dc962110bdbf8d19c56d81b767e144e7de7b15689618-u9564-fr2.png" crc="184147500" ref="freelancer"/>
+    <file name="dell_logo-u9557-fr.png" crc="4215186856" ref="freelancer"/>
+    <file name="black-hp-logo-round-u9556-fr.png" crc="408151649" ref="freelancer"/>
+    <file name="nokia-u9554-fr.png" crc="385217483" ref="freelancer"/>
+    <file name="sony_logosvg-u9555-fr.png" crc="403146321" ref="freelancer"/>
+    <file name="u11241-172.png" crc="3880357366" ref="freelancer"/>
+    <file name="u11241-17-r2.png" crc="3880357366" ref="freelancer"/>
+    <file name="u11241-17-m2.png" crc="3880357366" ref="freelancer"/>
+    <file name="u11241-17-fs2.png" crc="3859567776" ref="freelancer"/>
+    <file name="u11241-173.png" crc="3880357366" ref="freelancer"/>
+    <file name="u11241-17-r3.png" crc="3880357366" ref="freelancer"/>
+    <file name="u11241-17-m3.png" crc="3880357366" ref="freelancer"/>
+    <file name="u11241-17-fs3.png" crc="3859567776" ref="freelancer"/>
+    <file name="service (9)-u2783-fr.jpg" crc="349391435" ref="freelancer"/>
+    <file name="u11241-174.png" crc="3880357366" ref="freelancer"/>
+    <file name="u11241-17-r4.png" crc="3880357366" ref="freelancer"/>
+    <file name="u11241-17-m4.png" crc="3880357366" ref="freelancer"/>
+    <file name="u11241-17-fs4.png" crc="3859567776" ref="freelancer"/>
+    <file name="service (9)-u2783-fr2.jpg" crc="267127537" ref="freelancer"/>
+    <file name="service (3)-u2821-fr.jpg" crc="4198068636" ref="freelancer"/>
+    <file name="u11241-175.png" crc="3880357366" ref="freelancer"/>
+    <file name="u11241-17-r5.png" crc="3880357366" ref="freelancer"/>
+    <file name="u11241-17-m5.png" crc="3880357366" ref="freelancer"/>
+    <file name="u11241-17-fs5.png" crc="3859567776" ref="freelancer"/>
+    <file name="service (9)-u2783-fr3.jpg" crc="3826109905" ref="freelancer"/>
+    <file name="service (3)-u2821-fr2.jpg" crc="529075412" ref="freelancer"/>
+    <file name="u11241-176.png" crc="3880357366" ref="freelancer"/>
+    <file name="u11241-17-r6.png" crc="3880357366" ref="freelancer"/>
+    <file name="u11241-17-m6.png" crc="3880357366" ref="freelancer"/>
+    <file name="u11241-17-fs6.png" crc="3859567776" ref="freelancer"/>
+    <file name="service (3)-u2821-fr3.jpg" crc="4252981067" ref="freelancer"/>
+    <file name="envato-u9559-fr2.png" crc="469344201" ref="freelancer"/>
+    <file name="apple-u9562-fr2.png" crc="4114760598" ref="freelancer"/>
+    <file name="microsoft 2-u9560-fr2.png" crc="488983475" ref="freelancer"/>
+    <file name="adobe-u9561-fr2.png" crc="4241058907" ref="freelancer"/>
+    <file name="google_2015_logo_detail-u9565-fr2.jpg" crc="407121958" ref="freelancer"/>
+    <file name="behance_logosvg-u9566-fr2.png" crc="68844625" ref="freelancer"/>
+    <file name="github-logo-u9567-fr2.png" crc="103045098" ref="freelancer"/>
+    <file name="dribbble-logo-graph-dnld-a5f51e6e8f6c6bd334b1dc962110bdbf8d19c56d81b767e144e7de7b15689618-u9564-fr3.png" crc="514562208" ref="freelancer"/>
+    <file name="dell_logo-u9557-fr2.png" crc="4110970524" ref="freelancer"/>
+    <file name="nokia-u9554-fr2.png" crc="4282700422" ref="freelancer"/>
+    <file name="black-hp-logo-round-u9556-fr2.png" crc="3836666824" ref="freelancer"/>
+    <file name="sony_logosvg-u9555-fr2.png" crc="4191048471" ref="freelancer"/>
+    <file name="u11241-177.png" crc="3880357366" ref="freelancer"/>
+    <file name="u11241-17-r7.png" crc="3880357366" ref="freelancer"/>
+    <file name="u11241-17-m7.png" crc="3880357366" ref="freelancer"/>
+    <file name="u11241-17-fs7.png" crc="3859567776" ref="freelancer"/>
+    <file name="envato-u9559-fr3.png" crc="3892165311" ref="freelancer"/>
+    <file name="apple-u9562-fr3.png" crc="365194128" ref="freelancer"/>
+    <file name="microsoft 2-u9560-fr3.png" crc="503894015" ref="freelancer"/>
+    <file name="adobe-u9561-fr3.png" crc="291015143" ref="freelancer"/>
+    <file name="google_2015_logo_detail-u9565-fr3.jpg" crc="450049069" ref="freelancer"/>
+    <file name="behance_logosvg-u9566-fr3.png" crc="3954060318" ref="freelancer"/>
+    <file name="github-logo-u9567-fr3.png" crc="449505843" ref="freelancer"/>
+    <file name="dribbble-logo-graph-dnld-a5f51e6e8f6c6bd334b1dc962110bdbf8d19c56d81b767e144e7de7b15689618-u9564-fr4.png" crc="3831521513" ref="freelancer"/>
+    <file name="dell_logo-u9557-fr3.png" crc="469427269" ref="freelancer"/>
+    <file name="nokia-u9554-fr3.png" crc="4112984144" ref="freelancer"/>
+    <file name="black-hp-logo-round-u9556-fr3.png" crc="372517972" ref="freelancer"/>
+    <file name="sony_logosvg-u9555-fr3.png" crc="4265436342" ref="freelancer"/>
+    <file name="u11241-178.png" crc="385490269" ref="freelancer"/>
+    <file name="u11241-17-r8.png" crc="385490269" ref="freelancer"/>
+    <file name="u11241-17-m8.png" crc="385490269" ref="freelancer"/>
+    <file name="u11241-17-fs8.png" crc="4183392207" ref="freelancer"/>
+    <file name="home (7).jpg" crc="21639387" ref="portfolio:portfolio-details"/>
+    <file name="img (3).png" crc="4036172343" ref="portfolio"/>
+    <file name="free-magazine-mockup-bundle_0001_ebene-5.jpg" crc="4007053321" ref="portfolio"/>
+    <file name="free-magazine-mockup-bundle_0003_ebene-1.jpg" crc="332501565" ref="portfolio"/>
+    <file name="apple-watch-stainless-steel-mockup-psd-free-1000x683.jpg" crc="4293515806" ref="portfolio"/>
+    <file name="free-mockup-toolkit-vol-02-1000x748.jpg" crc="130983316" ref="portfolio"/>
+    <file name="chocolate-bar-mockup-2.jpg" crc="331298994" ref="portfolio"/>
+    <file name="scenes_0007_ebene-3.jpg" crc="4256828414" ref="portfolio"/>
+    <file name="z-fold-brochure-mockup-free.jpg" crc="311236741" ref="portfolio"/>
+    <file name="book-cover-presentation-mockups3.jpg" crc="173995009" ref="portfolio"/>
+    <file name="free-magazine-mockup-bundle_0000_ebene-6.jpg" crc="147975056" ref="portfolio"/>
+    <file name="free-sock-mockup-1000x683.jpg" crc="48680290" ref="portfolio"/>
+    <file name="free-minimalist-poster-mockup-livingroom-psd-1000x584.jpg" crc="290105623" ref="portfolio"/>
+    <file name="curled-paper-free-mockup-psd-1000x593.jpg" crc="433776714" ref="portfolio"/>
+    <file name="p2204-1000x750.jpg" crc="225231042" ref="portfolio"/>
+    <file name="free-a3-poster-wall-mockup-1000x673.jpg" crc="72051653" ref="portfolio"/>
+    <file name="free-executive-poster-mockup-1000x750.jpg" crc="257616597" ref="portfolio"/>
+    <file name="free-magazine-mockup-bundle_0001_ebene-5-u20122-fr.jpg" crc="232782588" ref="portfolio"/>
+    <file name="free-magazine-mockup-bundle_0003_ebene-1-u20109-fr.jpg" crc="3840860087" ref="portfolio"/>
+    <file name="chocolate-bar-mockup-2-u20118-fr.jpg" crc="443995820" ref="portfolio"/>
+    <file name="free-mockup-toolkit-vol-02-1000x748-u20101-fr.jpg" crc="4177205293" ref="portfolio"/>
+    <file name="apple-watch-stainless-steel-mockup-psd-free-1000x683-u20108-fr.jpg" crc="530302684" ref="portfolio"/>
+    <file name="scenes_0007_ebene-3-u20110-fr.jpg" crc="3804427616" ref="portfolio"/>
+    <file name="free-magazine-mockup-bundle_0000_ebene-6-u20119-fr.jpg" crc="3792866429" ref="portfolio"/>
+    <file name="book-cover-presentation-mockups3-u20121-fr.jpg" crc="3952792219" ref="portfolio"/>
+    <file name="z-fold-brochure-mockup-free-u20106-fr.jpg" crc="426269045" ref="portfolio"/>
+    <file name="free-sock-mockup-1000x683-u22674-fr.jpg" crc="4160644373" ref="portfolio"/>
+    <file name="free-minimalist-poster-mockup-livingroom-psd-1000x584-u22668-fr.jpg" crc="4118863199" ref="portfolio"/>
+    <file name="p2204-1000x750-u22676-fr.jpg" crc="136128973" ref="portfolio"/>
+    <file name="curled-paper-free-mockup-psd-1000x593-u22669-fr.jpg" crc="4079823857" ref="portfolio"/>
+    <file name="free-a3-poster-wall-mockup-1000x673-u22677-fr.jpg" crc="3909867252" ref="portfolio"/>
+    <file name="free-executive-poster-mockup-1000x750-u22671-fr.jpg" crc="4241678708" ref="portfolio"/>
+    <file name="free-magazine-mockup-bundle_0001_ebene-5-u20122-fr2.jpg" crc="3963050130" ref="portfolio"/>
+    <file name="free-magazine-mockup-bundle_0003_ebene-1-u20109-fr2.jpg" crc="372507844" ref="portfolio"/>
+    <file name="chocolate-bar-mockup-2-u20118-fr2.jpg" crc="76366164" ref="portfolio"/>
+    <file name="free-mockup-toolkit-vol-02-1000x748-u20101-fr2.jpg" crc="4057474921" ref="portfolio"/>
+    <file name="apple-watch-stainless-steel-mockup-psd-free-1000x683-u20108-fr2.jpg" crc="131162206" ref="portfolio"/>
+    <file name="scenes_0007_ebene-3-u20110-fr2.jpg" crc="3849944708" ref="portfolio"/>
+    <file name="free-magazine-mockup-bundle_0000_ebene-6-u20119-fr2.jpg" crc="156813527" ref="portfolio"/>
+    <file name="book-cover-presentation-mockups3-u20121-fr2.jpg" crc="245628061" ref="portfolio"/>
+    <file name="z-fold-brochure-mockup-free-u20106-fr2.jpg" crc="3826928551" ref="portfolio"/>
+    <file name="free-sock-mockup-1000x683-u22674-fr2.jpg" crc="3822330286" ref="portfolio"/>
+    <file name="free-minimalist-poster-mockup-livingroom-psd-1000x584-u22668-fr2.jpg" crc="243377516" ref="portfolio"/>
+    <file name="p2204-1000x750-u22676-fr2.jpg" crc="4111659609" ref="portfolio"/>
+    <file name="curled-paper-free-mockup-psd-1000x593-u22669-fr2.jpg" crc="3989617909" ref="portfolio"/>
+    <file name="free-a3-poster-wall-mockup-1000x673-u22677-fr2.jpg" crc="33102764" ref="portfolio"/>
+    <file name="free-executive-poster-mockup-1000x750-u22671-fr2.jpg" crc="4253687998" ref="portfolio"/>
+    <file name="img (3)-u118871-fr.png" crc="277325328" ref="portfolio"/>
+    <file name="free-magazine-mockup-bundle_0001_ebene-5-u20122-fr3.jpg" crc="3799578938" ref="portfolio"/>
+    <file name="free-magazine-mockup-bundle_0003_ebene-1-u20109-fr3.jpg" crc="3826045907" ref="portfolio"/>
+    <file name="chocolate-bar-mockup-2-u20118-fr3.jpg" crc="148455126" ref="portfolio"/>
+    <file name="free-mockup-toolkit-vol-02-1000x748-u20101-fr3.jpg" crc="4160995872" ref="portfolio"/>
+    <file name="apple-watch-stainless-steel-mockup-psd-free-1000x683-u20108-fr3.jpg" crc="3864540695" ref="portfolio"/>
+    <file name="scenes_0007_ebene-3-u20110-fr3.jpg" crc="189639511" ref="portfolio"/>
+    <file name="free-magazine-mockup-bundle_0000_ebene-6-u20119-fr3.jpg" crc="72282870" ref="portfolio"/>
+    <file name="book-cover-presentation-mockups3-u20121-fr3.jpg" crc="4236850606" ref="portfolio"/>
+    <file name="z-fold-brochure-mockup-free-u20106-fr3.jpg" crc="4056893894" ref="portfolio"/>
+    <file name="free-sock-mockup-1000x683-u22674-fr3.jpg" crc="4276433337" ref="portfolio"/>
+    <file name="free-minimalist-poster-mockup-livingroom-psd-1000x584-u22668-fr3.jpg" crc="3886249038" ref="portfolio"/>
+    <file name="p2204-1000x750-u22676-fr3.jpg" crc="377484529" ref="portfolio"/>
+    <file name="curled-paper-free-mockup-psd-1000x593-u22669-fr3.jpg" crc="142865252" ref="portfolio"/>
+    <file name="free-a3-poster-wall-mockup-1000x673-u22677-fr3.jpg" crc="4141230581" ref="portfolio"/>
+    <file name="free-executive-poster-mockup-1000x750-u22671-fr3.jpg" crc="314686550" ref="portfolio"/>
+    <file name="free-magazine-mockup-bundle_0001_ebene-5-u20122-fr4.jpg" crc="3884836063" ref="portfolio"/>
+    <file name="free-magazine-mockup-bundle_0003_ebene-1-u20109-fr4.jpg" crc="209548036" ref="portfolio"/>
+    <file name="chocolate-bar-mockup-2-u20118-fr4.jpg" crc="429120558" ref="portfolio"/>
+    <file name="free-mockup-toolkit-vol-02-1000x748-u20101-fr4.jpg" crc="439324146" ref="portfolio"/>
+    <file name="apple-watch-stainless-steel-mockup-psd-free-1000x683-u20108-fr4.jpg" crc="197395369" ref="portfolio"/>
+    <file name="scenes_0007_ebene-3-u20110-fr4.jpg" crc="61815842" ref="portfolio"/>
+    <file name="free-magazine-mockup-bundle_0000_ebene-6-u20119-fr4.jpg" crc="4067567767" ref="portfolio"/>
+    <file name="book-cover-presentation-mockups3-u20121-fr4.jpg" crc="281681956" ref="portfolio"/>
+    <file name="z-fold-brochure-mockup-free-u20106-fr4.jpg" crc="4233695332" ref="portfolio"/>
+    <file name="free-sock-mockup-1000x683-u22674-fr4.jpg" crc="4175680993" ref="portfolio"/>
+    <file name="free-minimalist-poster-mockup-livingroom-psd-1000x584-u22668-fr4.jpg" crc="315955132" ref="portfolio"/>
+    <file name="p2204-1000x750-u22676-fr4.jpg" crc="4232663108" ref="portfolio"/>
+    <file name="curled-paper-free-mockup-psd-1000x593-u22669-fr4.jpg" crc="4022494702" ref="portfolio"/>
+    <file name="free-a3-poster-wall-mockup-1000x673-u22677-fr4.jpg" crc="134820901" ref="portfolio"/>
+    <file name="free-executive-poster-mockup-1000x750-u22671-fr4.jpg" crc="333900651" ref="portfolio"/>
+    <file name="project (1).jpg" crc="384808204" seo="true" ref="portfolio-details"/>
+    <file name="project (2).jpg" crc="4134550908" seo="true" ref="portfolio-details"/>
+    <file name="project (4).jpg" crc="4242599904" seo="true" ref="portfolio-details"/>
+    <file name="project (1)181x120.jpg" crc="4155804882" seo="true" ref="portfolio-details"/>
+    <file name="project (2)197x120.jpg" crc="380987810" seo="true" ref="portfolio-details"/>
+    <file name="project (4)180x120.jpg" crc="75345738" seo="true" ref="portfolio-details"/>
+    <file name="loading.gif" crc="3815509949" ref="portfolio-details"/>
+    <file name="project (1)721x480.jpg" crc="3954585038" seo="true" ref="portfolio-details"/>
+    <file name="project (2)786x480.jpg" crc="84996671" seo="true" ref="portfolio-details"/>
+    <file name="project (4)720x480.jpg" crc="4105409900" seo="true" ref="portfolio-details"/>
+    <file name="project (1)166x110.jpg" crc="102751948" seo="true" ref="portfolio-details"/>
+    <file name="project (2)181x110.jpg" crc="6301405" seo="true" ref="portfolio-details"/>
+    <file name="project (4)165x110.jpg" crc="82350939" seo="true" ref="portfolio-details"/>
+    <file name="project (1)563x375.jpg" crc="4293787767" seo="true" ref="portfolio-details"/>
+    <file name="project (2)614x375.jpg" crc="30617831" seo="true" ref="portfolio-details"/>
+    <file name="project (4)563x375.jpg" crc="257963489" seo="true" ref="portfolio-details"/>
+    <file name="project (1)151x100.jpg" crc="435447092" seo="true" ref="portfolio-details"/>
+    <file name="project (2)164x100.jpg" crc="4019521394" seo="true" ref="portfolio-details"/>
+    <file name="project (4)150x100.jpg" crc="383665348" seo="true" ref="portfolio-details"/>
+    <file name="project (1)473x315.jpg" crc="536862723" seo="true" ref="portfolio-details"/>
+    <file name="project (2)516x315.jpg" crc="509997628" seo="true" ref="portfolio-details"/>
+    <file name="project (4)473x315.jpg" crc="193904283" seo="true" ref="portfolio-details"/>
+    <file name="project (1)91x60.jpg" crc="3973517894" seo="true" ref="portfolio-details"/>
+    <file name="project (2)99x60.jpg" crc="4105745661" seo="true" ref="portfolio-details"/>
+    <file name="project (4)90x60.jpg" crc="75570375" seo="true" ref="portfolio-details"/>
+    <file name="project (1)406x270.jpg" crc="124120460" seo="true" ref="portfolio-details"/>
+    <file name="project (2)442x270.jpg" crc="3788608195" seo="true" ref="portfolio-details"/>
+    <file name="project (4)405x270.jpg" crc="368237995" seo="true" ref="portfolio-details"/>
+    <file name="project (1)338x225.jpg" crc="180292948" seo="true" ref="portfolio-details"/>
+    <file name="project (2)369x225.jpg" crc="4294689808" seo="true" ref="portfolio-details"/>
+    <file name="project (4)338x225.jpg" crc="4150985729" seo="true" ref="portfolio-details"/>
+    <file name="wall.jpg" crc="359988506" ref="index"/>
+    <file name="r 1.jpg" crc="3836746116" ref="index"/>
+    <file name="f 2.jpg" crc="4152211659" ref="index"/>
+    <file name="p 4.jpg" crc="4124310795" ref="index"/>
+    <file name="p 5.jpg" crc="4010535044" ref="index"/>
+    <file name="r 1-u90621-fr.jpg" crc="3875331477" ref="index"/>
+    <file name="f 2-u90627-fr.jpg" crc="3821761521" ref="index"/>
+    <file name="p 4-u90687-fr.jpg" crc="443751070" ref="index"/>
+    <file name="p 5-u90684-fr.jpg" crc="467562434" ref="index"/>
+    <file name="r 1-u90621-fr2.jpg" crc="179886541" ref="index"/>
+    <file name="f 2-u90627-fr2.jpg" crc="455374482" ref="index"/>
+    <file name="p 4-u90687-fr2.jpg" crc="414272141" ref="index"/>
+    <file name="p 5-u90684-fr2.jpg" crc="352550697" ref="index"/>
+    <file name="r 1-u90621-fr3.jpg" crc="4209075903" ref="index"/>
+    <file name="f 2-u90627-fr3.jpg" crc="3909377479" ref="index"/>
+    <file name="p 4-u90687-fr3.jpg" crc="381322922" ref="index"/>
+    <file name="p 5-u90684-fr3.jpg" crc="3965990606" ref="index"/>
+  </folder>
+  <file name="resume.html" crc="359821516" seo="true" mt="1485777146306" redirect="true"/>
+  <file name="freelancer.html" crc="3977532897" seo="true" mt="1485788368992" redirect="true"/>
+  <file name="portfolio.html" crc="257698074" seo="true" mt="1487857558167" redirect="true"/>
+  <file name="portfolio-details.html" crc="353807235" seo="true" mt="1485780546850" redirect="true"/>
+  <file name="index.html" crc="504948046" seo="true" mt="1487866567635" redirect="true"/>
+</manifest>
