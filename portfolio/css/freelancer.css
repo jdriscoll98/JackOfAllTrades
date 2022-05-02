@@ -458,7 +458,7 @@
 }
 
 #u2798-4 {
-    color: #666666;
+    color: #B3B3B3;
     background-image: url("../images/blank.gif?crc=4208392903");
     transition-delay: 0s;
     -webkit-transition-duration: 0.5s;
@@ -1014,7 +1014,6 @@
     transition-timing-function: ease;
 }
 
-#u2798-4:hover,
 #u6954-4:hover,
 #u6959-4:hover,
 #u6964-4:hover,
@@ -1032,7 +1031,6 @@
 }
 
 #u2797-4:hover p,
-#u2798-4:hover p,
 #u6955-4:hover p,
 #u6956-4:hover p,
 #u6956-4:hover span,
@@ -4148,7 +4146,7 @@ print {
 
     #u2783 {
         height: 400px;
-        background-image: url("../images/service%20(9).jpg?crc=369638082");
+        background-image: url("../images/professional.jpeg");
         margin-right: -10000px;
         margin-top: 150px;
         width: 36.5%;
@@ -6203,7 +6201,7 @@ print {
 
     #u2783 {
         height: 400px;
-        background-image: url("../images/service%20(9).jpg?crc=369638082");
+        background-image: url("../images/professional.jpeg");
         margin-right: -10000px;
         margin-top: 100px;
         width: 36.53%;
@@ -8239,7 +8237,7 @@ print {
 
     #u2783 {
         height: 380px;
-        background-image: url("../images/service%20(9).jpg?crc=369638082");
+        background-image: url("../images/professional.jpeg");
         margin-right: -10000px;
         margin-top: 110px;
         width: 36.24%;
@@ -10334,7 +10332,7 @@ print {
 
     #u2783 {
         height: 250px;
-        background-image: url("../images/service%20(9)-u2783-fr.jpg?crc=349391435");
+        background-image: url("../images/professional.jpeg");
         width: 78.13%;
         left: 10.94%;
     }
@@ -12506,7 +12504,7 @@ print {
 
     #u2783 {
         height: 250px;
-        background-image: url("../images/service%20(9)-u2783-fr2.jpg?crc=267127537");
+        background-image: url("../images/professional.jpeg");
         width: 78.13%;
         left: 11.05%;
     }
@@ -14640,7 +14638,7 @@ print {
 
     #u2783 {
         height: 200px;
-        background-image: url("../images/service%20(9)-u2783-fr3.jpg?crc=3826109905");
+        background-image: url("../images/professional.jpeg");
         width: 78.1%;
         left: 10.96%;
     }
@@ -16824,7 +16822,7 @@ print {
 
     #u2783 {
         height: 200px;
-        background-image: url("../images/service%20(9)-u2783-fr3.jpg?crc=3826109905");
+        background-image: url("../images/professional.jpeg");
         width: 78.06%;
         margin-left: 10.84%;
     }
@@ -18941,7 +18939,7 @@ print {
 
     #u2783 {
         height: 200px;
-        background-image: url("../images/service%20(9)-u2783-fr3.jpg?crc=3826109905");
+        background-image: url("../images/professional.jpeg");
         width: 78.13%;
         margin-left: 10.94%;
     }
@@ -20809,4 +20807,9 @@ print {
         overflow-x: hidden;
         min-width: 320px;
     }
+}
+
+/* CUSTOM */
+.border-radius-20 {
+    border-radius: 20px !important;
 }
